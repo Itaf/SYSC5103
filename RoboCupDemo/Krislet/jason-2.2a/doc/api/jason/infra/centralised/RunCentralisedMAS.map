@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./RunCentralisedMASMBean.html" title="jason.infra.centralised.RunCentralisedMASMBean" alt="" coords="16,11,197,53"/>
+<area shape="rect" id="node1" href="./RunCentralisedMASMBean.html" title="&lt;TABLE&gt;" alt="" coords="5,5,208,59"/>
+<area shape="rect" id="node2_1" href="./RunCentralisedMAS.html" title="jason.infra.centralised.RunCentralisedMAS" alt="" coords="141,118,281,143"/>
+<area shape="rect" id="node2" href="./RunCentralisedMAS.html" title="&lt;TABLE&gt;" alt="" coords="130,107,291,155"/>
+<area shape="rect" id="node4_2" href="../jade/RunJadeMAS.html" title="jason.infra.jade.RunJadeMAS" alt="" coords="156,208,265,251"/>
+<area shape="rect" id="node4" href="../jade/RunJadeMAS.html" title="&lt;TABLE&gt;" alt="" coords="145,203,276,256"/>
+<area shape="rect" id="node3_3" href="./BaseCentralisedMAS.html" title="jason.infra.centralised.BaseCentralisedMAS" alt="" coords="243,19,389,45"/>
+<area shape="rect" id="node3" href="./BaseCentralisedMAS.html" title="&lt;TABLE&gt;" alt="" coords="233,8,399,56"/>
+</map>
