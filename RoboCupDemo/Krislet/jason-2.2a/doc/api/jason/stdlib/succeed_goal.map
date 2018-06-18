@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../asSemantics/DefaultInternalAction.html" title="jason.asSemantics.DefaultInternalAction" alt="" coords="16,11,159,53"/>
+<area shape="rect" id="node1" href="../asSemantics/DefaultInternalAction.html" title="&lt;TABLE&gt;" alt="" coords="5,5,169,59"/>
+<area shape="rect" id="node2_1" href="./succeed_goal.html" title="jason.stdlib.succeed_goal" alt="" coords="37,118,138,143"/>
+<area shape="rect" id="node2" href="./succeed_goal.html" title="&lt;TABLE&gt;" alt="" coords="26,107,149,155"/>
+<area shape="rect" id="node3_2" href="./fail_goal.html" title="jason.stdlib.fail_goal" alt="" coords="53,214,121,239"/>
+<area shape="rect" id="node3" href="./fail_goal.html" title="&lt;TABLE&gt;" alt="" coords="43,203,132,251"/>
+</map>
