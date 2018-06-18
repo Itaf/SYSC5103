@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./RunJadeMAS.html" title="jason.infra.jade.RunJadeMAS" alt="" coords="16,19,117,45"/>
+<area shape="rect" id="node1" href="./RunJadeMAS.html" title="&lt;TABLE&gt;" alt="" coords="5,8,128,56"/>
+<area shape="rect" id="node2_1" href="./JasonBridgeArch.html" title="jason.infra.jade.JasonBridgeArch" alt="" coords="163,19,283,45"/>
+<area shape="rect" id="node2" href="./JasonBridgeArch.html" title="&lt;TABLE&gt;" alt="" coords="152,8,293,56"/>
+<area shape="rect" id="node3_2" href="./JadeRuntimeServices.html" title="jason.infra.jade.JadeRuntimeServices" alt="" coords="329,19,477,45"/>
+<area shape="rect" id="node3" href="./JadeRuntimeServices.html" title="&lt;TABLE&gt;" alt="" coords="318,8,487,56"/>
+<area shape="rect" id="node4_3" href="./JadeMASLauncherAnt.html" title="jason.infra.jade.JadeMASLauncherAnt" alt="" coords="523,19,675,45"/>
+<area shape="rect" id="node4" href="./JadeMASLauncherAnt.html" title="&lt;TABLE&gt;" alt="" coords="512,8,685,56"/>
+<area shape="rect" id="node5_4" href="./JadeFactory.html" title="jason.infra.jade.JadeFactory" alt="" coords="721,19,813,45"/>
+<area shape="rect" id="node5" href="./JadeFactory.html" title="&lt;TABLE&gt;" alt="" coords="710,8,823,56"/>
+<area shape="rect" id="node6_5" href="./JadeExecutionControl.html" title="jason.infra.jade.JadeExecutionControl" alt="" coords="635,118,784,143"/>
+<area shape="rect" id="node6" href="./JadeExecutionControl.html" title="&lt;TABLE&gt;" alt="" coords="624,107,795,155"/>
+<area shape="rect" id="node7_6" href="./JadeEnvironment.html" title="jason.infra.jade.JadeEnvironment" alt="" coords="829,118,952,143"/>
+<area shape="rect" id="node7" href="./JadeEnvironment.html" title="&lt;TABLE&gt;" alt="" coords="819,107,963,155"/>
+<area shape="rect" id="node8_7" href="./JadeAgArch.html" title="jason.infra.jade.JadeAgArch" alt="" coords="998,118,1090,143"/>
+<area shape="rect" id="node8" href="./JadeAgArch.html" title="&lt;TABLE&gt;" alt="" coords="987,107,1101,155"/>
+<area shape="rect" id="node9_8" href="./JadeAgArch.JasonTSReasoner.html" title="jason.infra.jade.JadeAgArch.JasonTSReasoner" alt="" coords="969,19,1098,45"/>
+<area shape="rect" id="node9" href="./JadeAgArch.JasonTSReasoner.html" title="&lt;TABLE&gt;" alt="" coords="958,8,1109,56"/>
+<area shape="rect" id="node10_9" href="./JadeAg.html" title="jason.infra.jade.JadeAg" alt="" coords="859,19,923,45"/>
+<area shape="rect" id="node10" href="./JadeAg.html" title="&lt;TABLE&gt;" alt="" coords="848,8,933,56"/>
+<area shape="rect" id="node11_10" href="./ContainerAllocation.html" title="jason.infra.jade.ContainerAllocation" alt="" coords="1143,11,1278,53"/>
+<area shape="rect" id="node11" href="./ContainerAllocation.html" title="&lt;TABLE&gt;" alt="" coords="1133,5,1289,59"/>
+</map>

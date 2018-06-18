@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./SenseComponent.html" title="jason.infra.components.SenseComponent" alt="" coords="16,113,141,138"/>
+<area shape="rect" id="node1" href="./SenseComponent.html" title="&lt;TABLE&gt;" alt="" coords="5,101,152,149"/>
+<area shape="rect" id="node2_1" href="./DeliberateComponent.html" title="jason.infra.components.DeliberateComponent" alt="" coords="187,113,335,138"/>
+<area shape="rect" id="node2" href="./DeliberateComponent.html" title="&lt;TABLE&gt;" alt="" coords="177,101,346,149"/>
+<area shape="rect" id="node3_2" href="./AgentComponent.html" title="jason.infra.components.AgentComponent" alt="" coords="200,17,323,42"/>
+<area shape="rect" id="node3" href="./AgentComponent.html" title="&lt;TABLE&gt;" alt="" coords="189,5,333,53"/>
+<area shape="rect" id="node4_3" href="./ActComponent.html" title="jason.infra.components.ActComponent" alt="" coords="381,113,488,138"/>
+<area shape="rect" id="node4" href="./ActComponent.html" title="&lt;TABLE&gt;" alt="" coords="371,101,499,149"/>
+</map>
