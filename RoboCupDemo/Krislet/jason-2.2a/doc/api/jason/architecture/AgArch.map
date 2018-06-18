@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./MindInspectorAgArch.html" title="jason.architecture.MindInspectorAgArch" alt="" coords="16,217,163,242"/>
+<area shape="rect" id="node1" href="./MindInspectorAgArch.html" title="&lt;TABLE&gt;" alt="" coords="5,205,173,253"/>
+<area shape="rect" id="node2_1" href="./AgArchInfraTier.html" title="jason.architecture.AgArchInfraTier" alt="" coords="227,11,339,53"/>
+<area shape="rect" id="node2" href="./AgArchInfraTier.html" title="&lt;TABLE&gt;" alt="" coords="216,5,349,59"/>
+<area shape="rect" id="node3_2" href="./AgArch.html" title="jason.architecture.AgArch" alt="" coords="251,118,314,143"/>
+<area shape="rect" id="node3" href="./AgArch.html" title="&lt;TABLE&gt;" alt="" coords="241,107,325,155"/>
+<area shape="rect" id="node4_3" href="../infra/centralised/CentralisedAgArch.html" title="jason.infra.centralised.CentralisedAgArch" alt="" coords="209,208,357,251"/>
+<area shape="rect" id="node4" href="../infra/centralised/CentralisedAgArch.html" title="&lt;TABLE&gt;" alt="" coords="198,203,367,256"/>
+<area shape="rect" id="node5_4" href="../infra/jade/JasonBridgeArch.html" title="jason.infra.jade.JasonBridgeArch" alt="" coords="403,208,523,251"/>
+<area shape="rect" id="node5" href="../infra/jade/JasonBridgeArch.html" title="&lt;TABLE&gt;" alt="" coords="392,203,533,256"/>
+</map>
