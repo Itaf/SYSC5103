@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Trigger.html" title="jason.asSyntax.Trigger" alt="" coords="16,19,77,45"/>
+<area shape="rect" id="node1" href="./Trigger.html" title="&lt;TABLE&gt;" alt="" coords="5,8,88,56"/>
+<area shape="rect" id="node4_1" href="./Literal.html" title="jason.asSyntax.Literal" alt="" coords="150,133,205,158"/>
+<area shape="rect" id="node4" href="./Literal.html" title="&lt;TABLE&gt;" alt="" coords="139,121,215,169"/>
+<area shape="rect" id="node2_2" href="./PredicateIndicator.html" title="jason.asSyntax.PredicateIndicator" alt="" coords="47,243,174,269"/>
+<area shape="rect" id="node2" href="./PredicateIndicator.html" title="&lt;TABLE&gt;" alt="" coords="37,232,185,280"/>
+<area shape="rect" id="node3_3" href="./LogicalFormula.html" title="jason.asSyntax.LogicalFormula" alt="" coords="123,11,232,53"/>
+<area shape="rect" id="node3" href="./LogicalFormula.html" title="&lt;TABLE&gt;" alt="" coords="112,5,243,59"/>
+<area shape="rect" id="node6_4" href="./Atom.html" title="jason.asSyntax.Atom" alt="" coords="221,243,270,269"/>
+<area shape="rect" id="node6" href="./Atom.html" title="&lt;TABLE&gt;" alt="" coords="209,232,281,280"/>
+<area shape="rect" id="node5_5" href="./DefaultTerm.html" title="jason.asSyntax.DefaultTerm" alt="" coords="278,19,370,45"/>
+<area shape="rect" id="node5" href="./DefaultTerm.html" title="&lt;TABLE&gt;" alt="" coords="267,8,381,56"/>
+</map>
