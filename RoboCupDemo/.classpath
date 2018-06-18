@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Krislet"/>
+	<classpathentry kind="lib" path="I:/ITAF/UNIVERSITY/SYSC/5103/Project/jason-2.2a/libs/jason-2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/I:/ITAF/UNIVERSITY/SYSC/5103/Project/jason-2.2a/doc/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="Krislet"/>
+</classpath>
