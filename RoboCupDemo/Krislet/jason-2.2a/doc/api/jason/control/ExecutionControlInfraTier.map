@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ExecutionControlInfraTier.html" title="jason.control.ExecutionControlInfraTier" alt="" coords="132,11,301,53"/>
+<area shape="rect" id="node1" href="./ExecutionControlInfraTier.html" title="&lt;TABLE&gt;" alt="" coords="121,5,312,59"/>
+<area shape="rect" id="node2_1" href="../infra/centralised/CentralisedExecutionControl.html" title="jason.infra.centralised.CentralisedExecutionControl" alt="" coords="16,112,204,155"/>
+<area shape="rect" id="node2" href="../infra/centralised/CentralisedExecutionControl.html" title="&lt;TABLE&gt;" alt="" coords="5,107,215,160"/>
+<area shape="rect" id="node3_2" href="../infra/jade/JadeExecutionControl.html" title="jason.infra.jade.JadeExecutionControl" alt="" coords="250,112,399,155"/>
+<area shape="rect" id="node3" href="../infra/jade/JadeExecutionControl.html" title="&lt;TABLE&gt;" alt="" coords="239,107,410,160"/>
+</map>

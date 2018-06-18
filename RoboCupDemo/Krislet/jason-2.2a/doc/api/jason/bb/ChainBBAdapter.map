@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./TextPersistentBB.html" title="jason.bb.TextPersistentBB" alt="" coords="16,127,137,153"/>
+<area shape="rect" id="node1" href="./TextPersistentBB.html" title="&lt;TABLE&gt;" alt="" coords="5,116,148,164"/>
+<area shape="rect" id="node2_1" href="./JDBCPersistentBB.html" title="jason.bb.JDBCPersistentBB" alt="" coords="183,127,314,153"/>
+<area shape="rect" id="node2" href="./JDBCPersistentBB.html" title="&lt;TABLE&gt;" alt="" coords="173,116,325,164"/>
+<area shape="rect" id="node3_2" href="./IndexedBB.html" title="jason.bb.IndexedBB" alt="" coords="360,127,444,153"/>
+<area shape="rect" id="node3" href="./IndexedBB.html" title="&lt;TABLE&gt;" alt="" coords="349,116,455,164"/>
+<area shape="rect" id="node4_3" href="./ChainBBAdapter.html" title="jason.bb.ChainBBAdapter" alt="" coords="404,17,523,42"/>
+<area shape="rect" id="node4" href="./ChainBBAdapter.html" title="&lt;TABLE&gt;" alt="" coords="393,5,533,53"/>
+<area shape="rect" id="node5_4" href="./ChainBB.html" title="jason.bb.ChainBB" alt="" coords="490,127,562,153"/>
+<area shape="rect" id="node5" href="./ChainBB.html" title="&lt;TABLE&gt;" alt="" coords="479,116,573,164"/>
+<area shape="rect" id="node6_5" href="./BeliefBase.html" title="jason.bb.BeliefBase" alt="" coords="607,127,690,153"/>
+<area shape="rect" id="node6" href="./BeliefBase.html" title="&lt;TABLE&gt;" alt="" coords="597,116,701,164"/>
+</map>
