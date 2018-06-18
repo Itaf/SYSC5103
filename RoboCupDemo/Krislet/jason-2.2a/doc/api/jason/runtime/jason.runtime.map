@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./MASColorTextPane.html" title="jason.runtime.MASColorTextPane" alt="" coords="16,19,152,45"/>
+<area shape="rect" id="node1" href="./MASColorTextPane.html" title="&lt;TABLE&gt;" alt="" coords="5,8,163,56"/>
+<area shape="rect" id="node2_1" href="./SourcePath.html" title="jason.runtime.SourcePath" alt="" coords="197,19,285,45"/>
+<area shape="rect" id="node2" href="./SourcePath.html" title="&lt;TABLE&gt;" alt="" coords="187,8,296,56"/>
+<area shape="rect" id="node3_2" href="./Settings.html" title="jason.runtime.Settings" alt="" coords="331,19,397,45"/>
+<area shape="rect" id="node3" href="./Settings.html" title="&lt;TABLE&gt;" alt="" coords="320,8,408,56"/>
+<area shape="rect" id="node4_3" href="./RuntimeServicesInfraTier.html" title="jason.runtime.RuntimeServicesInfraTier" alt="" coords="443,11,613,53"/>
+<area shape="rect" id="node4" href="./RuntimeServicesInfraTier.html" title="&lt;TABLE&gt;" alt="" coords="433,5,623,59"/>
+<area shape="rect" id="node5_4" href="./RunJasonProject.html" title="jason.runtime.RunJasonProject" alt="" coords="659,19,779,45"/>
+<area shape="rect" id="node5" href="./RunJasonProject.html" title="&lt;TABLE&gt;" alt="" coords="648,8,789,56"/>
+<area shape="rect" id="node6_5" href="./OutputStreamAdapter.html" title="jason.runtime.OutputStreamAdapter" alt="" coords="825,19,973,45"/>
+<area shape="rect" id="node6" href="./OutputStreamAdapter.html" title="&lt;TABLE&gt;" alt="" coords="814,8,983,56"/>
+<area shape="rect" id="node7_6" href="./MASConsoleLogHandler.html" title="jason.runtime.MASConsoleLogHandler" alt="" coords="1019,19,1184,45"/>
+<area shape="rect" id="node7" href="./MASConsoleLogHandler.html" title="&lt;TABLE&gt;" alt="" coords="1008,8,1195,56"/>
+<area shape="rect" id="node8_7" href="./MASConsoleLogFormatter.html" title="jason.runtime.MASConsoleLogFormatter" alt="" coords="1229,19,1405,45"/>
+<area shape="rect" id="node8" href="./MASConsoleLogFormatter.html" title="&lt;TABLE&gt;" alt="" coords="1219,8,1416,56"/>
+<area shape="rect" id="node9_8" href="./MASConsoleGUI.html" title="jason.runtime.MASConsoleGUI" alt="" coords="1451,19,1571,45"/>
+<area shape="rect" id="node9" href="./MASConsoleGUI.html" title="&lt;TABLE&gt;" alt="" coords="1440,8,1581,56"/>
+<area shape="rect" id="node10_9" href="./MASConsoleColorGUI.html" title="jason.runtime.MASConsoleColorGUI" alt="" coords="1435,118,1587,143"/>
+<area shape="rect" id="node10" href="./MASConsoleColorGUI.html" title="&lt;TABLE&gt;" alt="" coords="1424,107,1597,155"/>
+</map>
